@@ -7,7 +7,7 @@ person = [
     "DNI: 31.583455",
 ]
 
-# print(person)
+print(person)
 
 cart = [
     "bananas",
@@ -19,14 +19,14 @@ cart = [
 # print(cart)
 
 total = [
-    "bananas price:300$  quantity:18"
-    "Apple price:100$  quantity:6"
-    "Kiwwi price:500$ quantity:5"
-    "Oranjes price:200$ quantity:5"
+    "bananas price:300$  quantity:18",
+    "Apple price:100$  quantity:6",
+    "Kiwwi price:500$ quantity:5",
+    "Oranjes price:200$ quantity:5",
     "Fruilla price:50$ quantity:50"
 ]
 
-# print(total)
+print(total)
 
 NumberOne = 300 * 12
 Numbertwo = 100 * 10
