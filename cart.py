@@ -14,4 +14,4 @@ cart = [
     "oranjes"
 ]
 
-print(person)
+print(cart)
