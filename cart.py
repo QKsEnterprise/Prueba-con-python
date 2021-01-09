@@ -23,7 +23,7 @@ total = [
     "Apple price:100$  quantity:6",
     "Kiwwi price:500$ quantity:5",
     "Oranjes price:200$ quantity:5",
-    "Fruilla price:50$ quantity:50"
+    "Strawberries price:50$ quantity:50"
 ]
 
 print(total)
